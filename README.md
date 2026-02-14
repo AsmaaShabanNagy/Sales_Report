@@ -1,6 +1,4 @@
-Sales Report Dashboard Overview
-
-This repository contains a comprehensive sales report dashboard built with Microsoft Power BI.
+Sales Report Overview:
 The dashboard provides interactive visualizations and insights into sales performance, 
 trends, and key metrics to support data-driven decision making.
 
